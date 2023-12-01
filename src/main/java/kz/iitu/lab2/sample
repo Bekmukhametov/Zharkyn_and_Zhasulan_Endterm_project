@@ -1,0 +1,10 @@
+{
+    "name": "Buyer Name"
+},
+{
+    "name": "Product Name",
+    "price": 10.99,
+    "buyer": {
+        "id": 1
+    }
+}
